@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Shopping</title>
+    <meta name="author" content="Abdullahi Osman">
+    <meta name="description" content="Shopping"> <!--Webpage Description -->
+    <meta name="keywords" content="buying, Planning, website, starter code">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../style/style.css">
+
+</head>
+
+  <body>
+<div class="header background border">
+   <header><h1 style="font-size:6vw;">Shopping</h1></header>
+</div>
+
+    <div class="navigation background border"><h3>
+
+      <p><a href="https://www.cohosts.ca/wp-content/uploads/2020/10/shopping-shannon-springs-2.jpg">
+      <img src="https://www.cohosts.ca/wp-content/uploads/2020/10/shopping-shannon-springs-2.jpg" alt="Shopping" title="Shopping" style="max-width:100%;height:auto;">
+      </p></a>
+            <p>hello! My name is Abdullahi Osman and welcome to my shopping website</p>
+            <ul style="list-style-type:circle;">
+      <!-- Date Accessed: 20220308-->
+
+      <p><a>
+      <img src="https://ae01.alicdn.com/kf/HTB15dUFaPzuK1RjSspeq6ziHVXax/New-Casual-pink-black-gray-blue-hoddie-Hip-Hop-Street-wear-Sweatshirts-Skateboard-Men-Woman-Pullover.jpg_Q90.jpg_.webp" alt="Hoodie" title="Hoodie" style="max-width:100%;height:auto;">
+      </p></a>
+
+
+
+      <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1280px-Heart_coraz%C3%B3n.svg.png" target="_blank">
+      <img src="https://www.thankyoudiva.com/images/thank-you-for-visiting-my-website.jpg" alt="Thanks" title="Thanks" style="max-width:100%;height:auto;">
+      </p></a>
+      <p>Click the picture</p>
+    </body>
+    <!------------------------------------------------->
+    <footer><div class='border'>
+
+      </article>
+    </section>
+
+    </div></body>
+    <!------------------------------------------------------------------------------------------------------------------>
+    <footer><div class= "entire border">
+      <body>
+    <footer>
+
+    <blockquote cite="https://risepeople.com/wp-content/uploads/small-business-quotes-1.jpg">
+    <!-- Date Accessed: 20220208 -->
+    <P><strong>A big bussiness starts <small></small>.</strong></p>
+    <p>
+      <em>
+         <a href="https://risepeople.com/wp-content/uploads/small-business-quotes-1.jpg">
+           Richard Branson
+         </a>
+      </em>
+   </p>
+    &copy Abdullahi Osman, Powered by abdullahi2022 in Github
+</footer>
+</html>
