@@ -30,6 +30,33 @@
       </p></a>
 
 
+      <section>
+
+          <form action="x.html" method="post" onsubmit="event.preventDefault";>
+          <!--Ensure this FORM doesn't work with PHP or other server side scripting languages-->
+          <!--Submit Button-->
+          <p>&nbsp;</p>
+          <!-- See: https://www.w3schools.com/html/html_entities.asp-->
+          <!-- Non-breaking real space, adds real space to the webapge that is not elminiated by the browser (hard coded space)  -->
+          <fieldset>
+            <p>
+              <label for="Pri"> Price:</label>
+              <input name="textfield1" type="text" id="textField1">
+              <a id="validityTest1">Type 5.00</a>
+            </p>
+            <p>
+              <label for="textfield">Amount:</label>
+              <input name="textfield2" type="text" id="textField2">
+              <a id="validityTest2">Type a Number</a>
+            </p>
+          </fieldset>
+
+          <br><br>
+          <button type="button" onclick="main()">Submit</button>
+          <br>
+          <h3><a id="answer">Are you connected?</a></h3>
+        </section>
+
 
       <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1280px-Heart_coraz%C3%B3n.svg.png" target="_blank">
       <img src="https://www.thankyoudiva.com/images/thank-you-for-visiting-my-website.jpg" alt="Thanks" title="Thanks" style="max-width:100%;height:auto;">
