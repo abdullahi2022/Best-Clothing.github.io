@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Shopping</title>
     <meta name="author" content="Abdullahi Osman">
-    <meta name="description" content="Shopping"> <!--Webpage Description -->
-    <meta name="keywords" content="buying, Planning, website, starter code">
+    <meta name="description" content="Shoes"> <!--Webpage Description -->
+    <meta name="keywords" content="buying shoes, Planning, website, starter code">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="../style/style.css">
 
@@ -13,21 +13,21 @@
 
   <body>
 <div class="header background border">
-   <header><h1 style="font-size:6vw;">Shopping</h1></header>
+   <header><h1 style="font-size:6vw;">Shoes</h1></header>
 </div>
 
 
     <div class="navigation background border"><h3>
 
       <p><a>
-      <img src="https://www.cohosts.ca/wp-content/uploads/2020/10/shopping-shannon-springs-2.jpg" alt="Shopping" title="Shopping" style="max-width:100%;height:auto;">
+      <img src="https://www.cohosts.ca/wp-content/uploads/2020/10/shopping-shannon-springs-2.jpg" alt="Shoes" title="Shoes" style="max-width:100%;height:auto;">
       </p></a>
-            <p>Hello! My name is Abdullahi Osman and welcome to my shopping website. On this website, you can find clothes like hoodies, jackets, and T-shirts, and also shoes.</p>
+            <p>Hello! My name is Abdullahi Osman and welcome to my Shoes website. On this Webpage, you can find many types of shoes.</p>
             <ul style="list-style-type:circle;">
       <!-- Date Accessed: 20220308-->
 
       <p><a>
-      <img src="https://ae01.alicdn.com/kf/HTB15dUFaPzuK1RjSspeq6ziHVXax/New-Casual-pink-black-gray-blue-hoddie-Hip-Hop-Street-wear-Sweatshirts-Skateboard-Men-Woman-Pullover.jpg_Q90.jpg_.webp" alt="Hoodie" title="Hoodie" style="max-width:100%;height:auto;">
+      <img src="https://i.shgcdn.com/517bf12c-567d-4a01-87da-44e86c5bccf6/-/format/auto/-/preview/3000x3000/-/quality/lighter/" alt="shoes" title="shoes" style="max-width:100%;height:auto;">
       </p></a>
 
 
@@ -40,21 +40,19 @@
           <!-- See: https://www.w3schools.com/html/html_entities.asp-->
           <!-- Non-breaking real space, adds real space to the webapge that is not elminiated by the browser (hard coded space)  -->
           <fieldset>
-            <p> Price = $39.99</p>
+            <p> Price = $83.99</p>
 
             <p> Tax = $1.01</p>
 
             <p>
               <label for="Price"> Final product:</label>
-              <input name="textfield1" type="text" id="$ 41">
+              <input name="textfield1" type="text" id="$86">
               <a id="validityTest1"></a>
             </p>
 
           </fieldset>
 
-          <br><br>
-          <button type="button" onclick="main()">Submit</button>
-          <br>
+
           <h3><a id="answer">Thanks for shopping on my website</a></h3>
         </section>
 
